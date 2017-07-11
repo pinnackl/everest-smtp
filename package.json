@@ -1,0 +1,16 @@
+{
+  "name": "everest-mailer",
+  "version": "1.0.0",
+  "description": "Mailer for Everest App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pinnackl Team",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemailer": "^4.0.1"
+  }
+}
